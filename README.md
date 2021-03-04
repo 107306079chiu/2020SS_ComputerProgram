@@ -1,2 +1,2 @@
 # VAEhw
-VAE implementation with NMIST dataset
+VAE implementation with MNIST dataset
